@@ -17,7 +17,8 @@ export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
-}>) {
+}>) 
+{
   return (
     <html lang="en">
       <body className={`${mukta_vaani.className} max-w-[1200px] mx-auto`}>

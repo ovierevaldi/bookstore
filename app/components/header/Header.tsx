@@ -10,7 +10,7 @@ export default function Header() {
         <HeaderButton label='ACCOUNT' iconName='user.svg' heigth={17} width={17}/>
       </div>
       <div className='text-center'>
-        <p className='text-white text-sm font-extralight tracking-defaultSpacing'>Register | Login</p>
+        <p className='text-white text-sm font-extralight tracking-defaultSpacing'><button>Register</button> | <button>Login</button></p>
       </div>
     </div>
   )

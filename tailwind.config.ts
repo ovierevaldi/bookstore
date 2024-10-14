@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        pinkMain: '#E79B9B'
       },
       letterSpacing: {
         defaultSpacing: '0.2rem'
